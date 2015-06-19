@@ -1,0 +1,26 @@
+*{
+margin: 0;
+padding: 0;
+    
+}
+
+
+body{
+width: 100%;
+background-color: #BDC3C7;
+color: deeppink;
+}
+
+
+h1{
+font-size: 50px;
+text-align: center;
+font-family: serif;
+}
+
+p{
+font-size: 18px;
+text-align: center;
+font-family: 'Hiragino Kaku Gothic ProN';
+}
+

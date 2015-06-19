@@ -1,0 +1,109 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+body{
+ width: 100%;
+ background-color: #BDC3C7;
+ font-family:serif;
+ font-size: 28px;
+}
+.container{
+ width: 600px;
+ margin: auto; 
+ background-color: #FFF;
+ text-align: center
+}
+#key-block img{
+ float: left;
+ margin-right: 10px;
+}
+#key-block h1{
+float: left;
+font-size: 40px;
+width: 350px;
+margin-bottom: 5px;
+}
+#key-block h2{
+float: left;
+margin-right: auto;
+font-size: 30px;
+}
+
+#key-block p{
+float: left;
+font-size: px;
+width: 350px;
+margin-bottom: 5px;
+color: deeppink;
+
+}
+nav{
+overflow: hidden;
+background: deeppink;
+margin-bottom: 30px;
+}
+nav li{
+float: left;
+list-style-type: none;
+}
+nav a{
+text-decoration: none;
+border: none;
+color:#fff;
+border-radius: 0;
+padding: 8px;
+display: block;
+transition: 0.5s;
+}
+nav a:hover{
+background: #fff;
+color: #FFF;
+;
+}
+.main{
+width: 600px;
+overflow: hidden;
+float: left;
+padding: 20px;
+}
+.sidebar{
+width: 200px;
+padding: 20px;
+margin-left: 10px;
+float: right;
+background: 003171;
+}
+.col-6{
+width: 600px;
+overflow: hidden;
+margin-bottom: 20px;
+background-color: #95A5A6;
+}
+.col-5{
+width: 490px;
+padding: 5px;
+float: left;
+background-color: rgba(255, 0, 0, 0.5)
+}
+
+
+.col-3{
+width: 290px;
+padding: 5px;
+float: left;
+overflow: hidden;
+color:deeppink;
+<!--->フォントサイズ<--->
+font-size: 20px;
+}
+
+}
+.col-1{
+width: 90px;
+padding: 5px;
+float: left;
+}
+h1{
+}
